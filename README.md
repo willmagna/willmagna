@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi there, William, better known as Will. 👋
+
+
+#### About
+
+- I'm a computer engineer
+- I’m currently learning JavaScript (Web n' Mobile - Full Stack Developer) at [Rocketseat](https://www.rocketseat.com.br/)
+
+#### Contacts
+- Email: williamlodea@gmail.com
+- LinkedIn: [will.magna](https://www.linkedin.com/in/willdoor/)
+- Instagram: [@will.magna](https://www.instagram.com/will.magna/)
+
+
 
 <!--
 **willmagna/willmagna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +28,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Bora commitar
+
