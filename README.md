@@ -7,7 +7,7 @@
 - I’m currently learning JavaScript (Web n' Mobile - Full Stack Developer) at [Rocketseat](https://www.rocketseat.com.br/)
 
 #### Contacts
-- Site: [willmagna](https://willmagna.com.br/bc-will)
+- Cartão virtual: [willmagna](https://willmagna.com.br/bc-will)
 - Email: williamlodea@gmail.com
 - LinkedIn: [will.magna](https://www.linkedin.com/in/willdoor/)
 - Instagram: [@will.magna](https://www.instagram.com/will.magna/)
