@@ -4,7 +4,8 @@
 #### About
 
 - I'm a computer engineer
-- I’m currently learning JavaScript (Web n' Mobile - Full Stack Developer) at [Rocketseat](https://www.rocketseat.com.br/)
+- I’m currently learning JavaScript, React n' React Native at [Rocketseat](https://www.rocketseat.com.br/)
+- I'm Javascript Vue.js Fullstack developer at Grupo ICF
 
 #### Contacts
 - Cartão virtual: [willmagna](https://willmagna.com.br/bc-will)
