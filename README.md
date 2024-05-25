@@ -4,13 +4,13 @@
 #### About
 
 - I'm a computer engineer
-- I’m currently learning JavaScript, React n' React Native at [Rocketseat](https://www.rocketseat.com.br/)
-- I'm Javascript Vue.js Fullstack developer at Grupo ICF
+- Stacks: NextJS, ReactJS, NodeJS, ReactNative, Typescript.
+- I’m currently working on: Eventickets (Ticket Saas), Adivce (DLP) , AgroGrowth (CRM)
 
-#### Contacts
-- Cartão virtual: [willmagna](https://willmagna.com.br/bc-will)
+
+#### 📫 How to reach me:
 - Email: williamlodea@gmail.com
-- LinkedIn: [will.magna](https://www.linkedin.com/in/willdoor/)
+- LinkedIn: [will.magna](https://www.linkedin.com/in/willmagna-eng/)
 - Instagram: [@will.magna](https://www.instagram.com/will.magna/)
 
 
