@@ -4,7 +4,7 @@
 #### About
 
 - I'm a computer engineer
-- I’m currently working with: NextJS, ReactJS, NodeJS, ReactNative, Typescript.
+- I’m currently working with: NextJS, ReactJS, ReactNative, VueJS, NodeJS, Typescript.
 - I’m currently working on: Eventickets (Ticket Saas), Adivce (DLP) , AgroGrowth (CRM)
 
 
