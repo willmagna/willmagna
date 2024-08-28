@@ -1,4 +1,4 @@
-### Hi there, William, better known as Will. 👋
+### Hi there, my name is William. Better known as Will. 👋
 
 
 #### About
