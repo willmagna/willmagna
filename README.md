@@ -3,7 +3,7 @@
 
 ### About
 
-🚀 CTO & Software Engineer | SaaS, AI, and Automations | NodeJS, React, Python | Creator of digital products that generate real value
+CTO & Full Stack Software Engineer | Digital Product Builder | SaaS, AI & Automations | NodeJS, React, Python
 
 #### Main Technical Skills:
 - **Languages & Frameworks:** Node.js, Python, TypeScript, JavaScript, ReactJS, Next.js, VueJS
