@@ -1,24 +1,38 @@
 ### Hi there, my name is William. Better known as Will. 👋
 
 
+### Headline
+
+CTO | Full Stack Software Engineer | SaaS Product Builder | AI & Automation | Node.js, React, Python | Tech Leader
+
 ### About
 
-CTO & Full Stack Software Engineer | Digital Product Builder | SaaS, AI & Automations | NodeJS, React, Python
+I’m a Full Stack Software Engineer and CTO with a degree in Computer Engineering (2017) and academic honors. Over the past years, I’ve worked as a developer, tech lead, and CTO, building end-to-end digital products with a strong focus on scalability, automation, and performance.
 
-#### Main Technical Skills:
-- **Languages & Frameworks:** Node.js, Python, TypeScript, JavaScript, ReactJS, Next.js, VueJS
-- **APIs:** REST, tRPC, GraphQL
-- **Databases:** PostgreSQL, MySQL, SQL Server, Oracle, MongoDB
-- **Cache & ORM:** Redis, Prisma
-- **Styling & UI:** Material UI, Tailwind CSS
-- **Integrations & Automations:** n8n, third-party APIs, Webhooks
-- **DevOps:** Docker, GitHub Actions, CI/CD
-- **Artificial Intelligence:** creation of AI agents for automating business processes
+Currently, I lead the tech strategy at Scale Tech, where I develop scalable SaaS solutions, build AI-powered agents, and implement advanced system integrations for businesses looking to grow through technology.
 
-#### Languages:
-- Portuguese (native)
-- Spanish (native)
-- English (C1)
+I specialize in full stack development, solution architecture, and technical leadership, combining product thinking with hands-on engineering to deliver real value to clients.
+
+💡 What I bring:
+- Experience building products from MVP to production  
+- Deep understanding of scalable architectures and DevOps practices  
+- AI-driven automation applied to commercial and operational processes  
+- Strong leadership in fast-paced, high-impact environments
+
+### ⚙️ Core Technologies & Tools:
+- **Languages & Frameworks:** Node.js, Python, TypeScript, JavaScript, React.js, Next.js, Vue.js  
+- **APIs:** REST, tRPC, GraphQL  
+- **Databases:** PostgreSQL, MySQL, SQL Server, Oracle, MongoDB  
+- **Cache & ORM:** Redis, Prisma  
+- **UI & Styling:** Material UI, Tailwind CSS  
+- **Integrations & Automation:** n8n, third-party APIs, Webhooks  
+- **DevOps:** Docker, GitHub Actions, CI/CD pipelines  
+- **Artificial Intelligence:** AI agent development for business process automation
+
+### 🌍 Languages:
+- Portuguese (Native)  
+- Spanish (Native)  
+- English (Advanced – C1)
 
 #### 📫 How to reach me:
 - **Email:** williamlodea@gmail.com
