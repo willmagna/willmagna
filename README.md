@@ -3,7 +3,7 @@
 
 ### Headline
 
-CTO | Full Stack Software Engineer | SaaS Product Builder | AI & Automation | Node.js, React, Python | Tech Leader
+CTO | Full Stack Software Engineer | SaaS, AI & Automation Manager | Node.js · React · Python
 
 ### About
 
