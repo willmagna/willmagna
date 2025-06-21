@@ -21,7 +21,7 @@ I specialize in full stack development, solution architecture, and technical lea
 
 ### ⚙️ Core Technologies & Tools:
 - **Languages & Frameworks:** Node.js, Python, TypeScript, JavaScript, React.js, Next.js, Vue.js  
-- **APIs:** REST, tRPC, GraphQL  
+- **APIs:** REST, tRPC, gRPC, GraphQL  
 - **Databases:** PostgreSQL, MySQL, SQL Server, Oracle, MongoDB  
 - **Cache & ORM:** Redis, Prisma  
 - **UI & Styling:** Material UI, Tailwind CSS  
