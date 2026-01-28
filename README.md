@@ -1,59 +1,54 @@
-### Hi there, my name is William. Better known as Will. 👋
-
+### Hi there, I’m William — but you can call me Will 👋
 
 ### Headline
+Senior Full-Stack Software Engineer | SaaS & AI Products | Revenue-Driven B2B  
+React · Next.js · Node.js · TypeScript · Python
 
-CTO | Full Stack Software Engineer | SaaS, AI & Automation Manager | Node.js · React · Python
+---
 
 ### About
 
-I’m a Full Stack Software Engineer and CTO with a degree in Computer Engineering (2017) and academic honors. Over the past years, I’ve worked as a developer, tech lead, and CTO, building end-to-end digital products with a strong focus on scalability, automation, and performance.
+I’m a Senior Full-Stack Software Engineer with a background in Computer Engineering (2017) and hands-on experience building, scaling, and operating production-grade SaaS and AI-driven systems.
 
-Currently, I lead the tech strategy at Scale Tech, where I develop scalable SaaS solutions, build AI-powered agents, and implement advanced system integrations for businesses looking to grow through technology.
+I work end-to-end: from system design and architecture to implementation, deployment, and production ownership. My focus is on building reliable, scalable products that generate real business value and revenue, especially in B2B environments.
 
-I specialize in full stack development, solution architecture, and technical leadership, combining product thinking with hands-on engineering to deliver real value to clients.
+Over the years, I’ve acted as developer, founding engineer, CTO, and technical consultant, delivering complex platforms involving payments, distributed systems, background processing, AI agents, and WhatsApp-based operational systems used by real customers at scale.
 
-💡 What I bring:
-- Experience building products from MVP to production  
-- Deep understanding of scalable architectures and DevOps practices  
-- AI-driven automation applied to commercial and operational processes  
-- Strong leadership in fast-paced, high-impact environments
+I’m driven by genuine technical curiosity and execution focus — solving problems, delivering results, and operating efficiently even under high pressure and ambiguity.
 
-### ⚙️ Core Technologies & Tools:
-- **Languages & Frameworks:** Node.js, Python, TypeScript, JavaScript, React.js, Next.js, Vue.js  
-- **APIs:** REST, tRPC, gRPC, GraphQL  
-- **Databases:** PostgreSQL, MySQL, SQL Server, Oracle, MongoDB  
-- **Cache & ORM:** Redis, Prisma  
-- **UI & Styling:** Material UI, Tailwind CSS  
-- **Integrations & Automation:** n8n, third-party APIs, Webhooks  
-- **DevOps:** Docker, GitHub Actions, CI/CD pipelines  
-- **Artificial Intelligence:** AI agent development for business process automation
+---
 
-### 🌍 Languages:
-- Portuguese (Native)  
-- Spanish (Native)  
-- English (Advanced – C1)
+### What I usually work on
+- SaaS platforms (from MVP to production)
+- Distributed and event-driven systems
+- Payment orchestration, retries, and failover strategies
+- AI-powered agents for sales, support, and operations
+- WhatsApp-based systems and real-time integrations
+- System design, architecture decisions, and trade-offs
+- Technical consulting for scalability, reliability, and modernization
 
-#### 📫 How to reach me:
-- **Email:** williamlodea@gmail.com
-- **LinkedIn:** [will.magna](https://www.linkedin.com/in/willmagna-eng/)
-- **Instagram:** [@will.magna](https://www.instagram.com/will.magna/)
+---
 
+### Core Technologies & Tools
+- **Languages & Frameworks:** Node.js, TypeScript, JavaScript, Python, React, Next.js, Vue.js  
+- **APIs & Communication:** REST, tRPC, Webhooks  
+- **Databases:** PostgreSQL, MySQL, MongoDB, Oracle  
+- **Messaging & Background Jobs:** RabbitMQ, BullMQ, Redis  
+- **ORM & Data:** Prisma  
+- **DevOps & Infra:** Docker, Git, GitHub, CI/CD pipelines  
+- **Frontend & UI:** Tailwind CSS, Material UI  
+- **Automation & Integrations:** n8n, third-party APIs  
+- **AI:** AI agents and LLM-based integrations for business processes
 
+---
 
-<!--
-**willmagna/willmagna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
+- Portuguese — Native  
+- Spanish — Native  
+- English — Advanced (C1)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+### 📫 Contact
+- **Email:** williamlodea@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/willmagna-eng/
