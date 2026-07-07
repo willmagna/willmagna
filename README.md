@@ -2,8 +2,7 @@
 # Hi, I'm William! 👋
 
 ## 🚀 About Me
-I'm a full stack software engineer focused in Node.js and React.
-
+Senior Full-Stack Software Engineer with 7 years designing, building, and operating production systems end-to-end, from architecture through deployment, across bank, logistics, AI automation, and API integrations. Deep hands-on expertise in Node.js, React.js, PostgreSQL, and Python, backed by a Computer Engineering degree earned with honors (GPA 9.68/10).
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eng-will)
